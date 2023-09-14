@@ -1,0 +1,96 @@
+
+*{padding: 0;}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0;
+    font-family: rconsolas, courier;
+    background-image: url(topography.webp) ;
+}
+.all{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+p {
+    font-family: consolas, courier;
+}
+.dash {
+    text-align: center; 
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.logo {
+   width: 50px; 
+   padding-top: 10px;
+   display: inline;
+   
+}
+.logo img{
+    padding-top: 10px;
+}
+
+.wiki{
+    text-align: center;
+}
+
+header {    
+background-color: #333333;
+width: auto;
+height: 50px;
+margin: 0;
+padding-left: 10%;
+padding-right: 10%;
+
+}
+
+nav {
+    display: inline;
+    
+   
+    }
+
+ul {
+  display: inline;
+  align-items: center;
+  float: right;
+  
+}
+
+li {display: inline;
+    padding-top: 20px;
+    padding-right: 10px;
+
+text-transform: uppercase;}
+
+
+/*.navigation {
+    z-index: 1;
+    right: 0;
+    top: 0;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+} */
+
+/*.navigation{
+    float: right;
+    margin-top: 0;
+    padding-top: 0;
+   
+} */
+a, h2 {
+    color: #ff0099;
+    text-decoration: none;
+}
+
+
+
